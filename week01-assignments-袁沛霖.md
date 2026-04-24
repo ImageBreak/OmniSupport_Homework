@@ -25,11 +25,11 @@ omni_tool_api         infra-tool_api                                "uvicorn app
 ```
 ### 3. 关键截图
 + **dagster - ✅**
-![[week01_dagster_01.png|dagster]]
+![dagster](assets/week01_dagster_01.png)
 + **MinIO Console - ✅**
-![[week01_minio_01.png]]
+![minio](week01_minio_01.png)
 + **Phoenix - ✅**
-![[week01_phoenix_01.png]]
+![phoenix](week01_phoenix_01.png)
 ### 4. 健康检查结果
 + **RAG API - ✅**
 ```bash
