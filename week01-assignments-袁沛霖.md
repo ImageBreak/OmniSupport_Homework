@@ -27,9 +27,9 @@ omni_tool_api         infra-tool_api                                "uvicorn app
 + **dagster - ✅**
 ![dagster](assets/week01_dagster_01.png)
 + **MinIO Console - ✅**
-![minio](week01_minio_01.png)
+![minio](assets/week01_minio_01.png)
 + **Phoenix - ✅**
-![phoenix](week01_phoenix_01.png)
+![phoenix](assets/week01_phoenix_01.png)
 ### 4. 健康检查结果
 + **RAG API - ✅**
 ```bash
