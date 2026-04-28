@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 240.5
   },
   "right": {
     "id": "c7a48c7c8f476e5c",
@@ -185,6 +185,7 @@
   },
   "active": "01926a187460552d",
   "lastOpenFiles": [
+    "assets/week01_system_design.png",
     "assets/week01_phoenix_01.png",
     "assets/week01_minio_01.png",
     "assets/week01_dagster_01.png",
